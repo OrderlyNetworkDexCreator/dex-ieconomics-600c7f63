@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "ieconomics",
   "VITE_ORDERLY_BROKER_NAME": "IECONOMICS",
   "VITE_BROKER_EOA_ADDRESS": "0xc294c8c4fa84a5b073294d5ec25c4f6f440e690c",
   "VITE_DISABLE_MAINNET": "false",
@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-ieconomics-600c7f63/",
+  "VITE_SEO_SITE_URL": "https://orderly.ieconomics.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
